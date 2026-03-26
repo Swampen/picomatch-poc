@@ -1,0 +1,9 @@
+{
+  "name": "picomatch-poc",
+  "private": true,
+  "packageManager": "yarn@4.8.1",
+  "devDependencies": {
+    "anymatch": "3.1.3",
+    "vite": "7.3.1"
+  }
+}
